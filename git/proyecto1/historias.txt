@@ -7,7 +7,11 @@ naci en facatativa tengo 46
 
 hoy es martes 20 abril
 
+<<<<<<< HEAD
 
 hola como esta un nuevo dia
 
 miremos si vamos a quedar en el principio
+=======
+debemos actualizar nuevamente los datos
+>>>>>>> cabecera
